@@ -1,0 +1,12 @@
+https://sooho-kim.tistory.com/51?category=891477
+
+↑↑ 위의 블로그에서 만들었던 프로젝트의 소스코드를 받은 것 입니다. ↑↑
+↓↓                                                                                 ↓↓
+
+https://github.com/Sooho-Kim/TeamProject/tree/master/01.KISTI%20-%20BeYourEyes/02.Code
+
+
+
+
+↓↓ 이건 참고하려했던 깃허브 소스코드입니다
+https://github.com/JoonHyukSuh/Thesis
